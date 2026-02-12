@@ -28,7 +28,7 @@
 | 遊戲 | 私服列表 | 詳細清單 |
 |------|---------|---------|
 | 🗡️ 天堂 Lineage | [瀏覽](https://hiddenhosts.com/game/lineage) | [awesome-lineage-servers](https://github.com/hiddenhosts/awesome-lineage-servers) |
-| ⚔️ 仙境傳說 RO | [瀏覽](https://hiddenhosts.com/game/ragnarok-online) | [awesome-ro-servers](https://github.com/hiddenhosts/awesome-ro-servers) |
+| ⚔️ 仙境傳說 RO | [瀏覽](https://hiddenhosts.com/game/ragnarok-online) | [awesome-ragnarok-online-servers](https://github.com/hiddenhosts/awesome-ragnarok-online-servers) |
 | 🍁 楓之谷 MapleStory | [瀏覽](https://hiddenhosts.com/game/maplestory) | [awesome-maplestory-servers](https://github.com/hiddenhosts/awesome-maplestory-servers) |
 
 ### 功能特色
