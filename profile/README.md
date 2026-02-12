@@ -12,7 +12,7 @@
 
 <p align="center">
   <a href="https://hiddenhosts.com">🌐 官方網站</a> &nbsp;·&nbsp;
-  <a href="https://hiddenhosts.com/tw">繁體中文</a> &nbsp;·&nbsp;
+  <a href="https://hiddenhosts.com">繁體中文</a> &nbsp;·&nbsp;
   <a href="https://hiddenhosts.com/en">English</a> &nbsp;·&nbsp;
   <a href="https://hiddenhosts.com/cn">简体中文</a>
 </p>
@@ -27,9 +27,9 @@
 
 | 遊戲 | 私服列表 | 詳細清單 |
 |------|---------|---------|
-| 🗡️ 天堂 Lineage | [瀏覽](https://hiddenhosts.com/tw/lineage) | [awesome-lineage-servers](https://github.com/hiddenhosts/awesome-lineage-servers) |
-| ⚔️ 仙境傳說 RO | [瀏覽](https://hiddenhosts.com/tw/ro) | [awesome-ro-servers](https://github.com/hiddenhosts/awesome-ro-servers) |
-| 🍁 楓之谷 MapleStory | [瀏覽](https://hiddenhosts.com/tw/maplestory) | [awesome-maplestory-servers](https://github.com/hiddenhosts/awesome-maplestory-servers) |
+| 🗡️ 天堂 Lineage | [瀏覽](https://hiddenhosts.com/game/lineage) | [awesome-lineage-servers](https://github.com/hiddenhosts/awesome-lineage-servers) |
+| ⚔️ 仙境傳說 RO | [瀏覽](https://hiddenhosts.com/game/ragnarok-online) | [awesome-ro-servers](https://github.com/hiddenhosts/awesome-ro-servers) |
+| 🍁 楓之谷 MapleStory | [瀏覽](https://hiddenhosts.com/game/maplestory) | [awesome-maplestory-servers](https://github.com/hiddenhosts/awesome-maplestory-servers) |
 
 ### 功能特色
 
